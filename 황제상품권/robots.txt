@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hwangjae.giftcash5424.workers.dev/sitemap.xml
